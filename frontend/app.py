@@ -5,7 +5,7 @@ st.title("AI Short Video Series Generator")
 
 backend_url = st.text_input(
     "Backend URL",
-    "https://your-backend-name.onrender.com"
+    "https://ai-shorts-system.onrender.com"
 )
 
 topic = st.text_input("Video Topic", "Motivation")
